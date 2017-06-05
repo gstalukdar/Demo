@@ -1,0 +1,91 @@
+<svg width="240" height="451" xmlns="http://www.w3.org/2000/svg" stroke="null" style="vector-effect: non-scaling-stroke;">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g stroke="null" id="merkle-tree">
+ <!-- <title stroke="null">Layer 1</title>-->
+  <rect stroke="#000" id="svg_1" height="19" width="22" y="11.5" x="102.5" stroke-opacity="null" stroke-width="null" fill="#8CD79F"/>
+  <rect stroke="#000" id="svg_2" height="19" width="22" y="111.5" x="65" stroke-opacity="null" stroke-width="null" fill="#306856">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="3s" repeatCount="none" />
+  </rect>
+  <rect stroke="#000" id="svg_3" height="19" width="22" y="62.5" x="103" stroke-opacity="null" stroke-width="null" fill="#306856">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="2s" repeatCount="none" />
+
+  </rect>
+
+  <line stroke="#000" style="vector-effect: non-scaling-stroke;" stroke-linecap="null" stroke-linejoin="null" id="svg_5" y2="163.5" x2="75.5" y1="131.499998" x1="75.5" stroke-opacity="null" stroke-width="null" fill="none">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="5s" repeatCount="none" />
+  </line>
+  <rect stroke="#000" id="svg_7" height="19" width="22" y="111.5" x="142" stroke-opacity="null" stroke-width="null" fill="#CC7C65">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="3s" repeatCount="none" />
+  </rect>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_8" y2="112.000003" x2="75.5" y1="82.000001" x1="111.5" stroke-opacity="null" stroke-width="null" fill="none">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="3s" repeatCount="none" />
+  </line>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_9" y2="112" x2="153.5" y1="82.000001" x1="117.499997" fill-opacity="null" stroke-opacity="null" stroke-width="null" fill="none">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="3s" repeatCount="none" />
+  </line>
+
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_20" y2="62" x2="114.5" y1="30" x1="114.5" stroke-opacity="null" stroke-width="null" stroke="#000" fill="none">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur=".5s" repeatCount="none" />
+  </line>
+  <rect stroke="#000" id="svg_21" height="19" width="22" y="163.5" x="65" stroke-opacity="null" stroke-width="null" fill="#306856">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="5s" repeatCount="none" />
+  </rect>
+  <rect stroke="#000" id="svg_24" height="19" width="22" y="215.5" x="65" stroke-opacity="null" stroke-width="null" fill="#306856">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="7s" repeatCount="none" />
+  </rect>
+  <line stroke="#000" style="vector-effect: non-scaling-stroke;" stroke-linecap="null" stroke-linejoin="null" id="svg_25" y2="267.5" x2="75.5" y1="235.499998" x1="75.5" stroke-opacity="null" stroke-width="null" fill="none">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="9s" repeatCount="none" />
+  </line>
+  <rect stroke="#000" id="svg_33" height="19" width="22" y="267.5" x="65" stroke-opacity="null" stroke-width="null" fill="#306856">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="9s" repeatCount="none" />
+  </rect>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_37" y2="214.5" x2="75.5" y1="182.499998" x1="75.5" stroke-opacity="null" stroke-width="null" fill="none">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="7s" repeatCount="none" />
+  </line>
+  <rect stroke="#000" id="svg_42" height="19" width="22" y="316.5" x="27" stroke-opacity="null" stroke-width="null" fill="#CC7C65">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="11s" repeatCount="none" />
+  </rect>
+  <rect stroke="#000" id="svg_44" height="19" width="22" y="316.5" x="104" stroke-opacity="null" stroke-width="null" fill="#306856">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="11s" repeatCount="none" />
+  </rect>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_45" y2="317.000003" x2="37.5" y1="287.000001" x1="73.5" stroke-opacity="null" stroke-width="null" fill="none">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="11s" repeatCount="none" />
+  </line>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_46" y2="317" x2="115.5" y1="287.000001" x1="79.499997" fill-opacity="null" stroke-opacity="null" stroke-width="null" fill="none">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="11s" repeatCount="none" />
+  </line>
+  <rect stroke="#000" id="svg_54" height="19" width="22" y="367.5" x="104" stroke-opacity="null" stroke-width="null" fill="#306856">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="13s" repeatCount="none" />
+  </rect>
+  <rect stroke="#000" id="svg_55" height="19" width="22" y="419.5" x="104" stroke-opacity="null" stroke-width="null" fill="#306856">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="15s" repeatCount="none" />
+  </rect>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_63" y2="418.5" x2="114.5" y1="386.499998" x1="114.5" stroke-opacity="null" stroke-width="null" fill="none">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="15s" repeatCount="none" />
+  </line>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_64" y2="367.5" x2="114.5" y1="335.499998" x1="114.5" stroke-opacity="null" stroke-width="null" fill="none">
+   <animate attributeType="CSS" attributeName="opacity"
+            from="0" to="1" dur="13s" repeatCount="none" />
+  </line>
+ </g>
+</svg>
